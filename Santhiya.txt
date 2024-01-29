@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-Hi i am Santhiya
-=======
 I am Prabha
->>>>>>> Prabha
+
